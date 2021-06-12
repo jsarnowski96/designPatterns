@@ -1,0 +1,26 @@
+{
+  "name": "designpatterns",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "dp": "./script.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsarnowski96/designPatterns.git"
+  },
+  "author": "Jakub Sarnowski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jsarnowski96/designPatterns/issues"
+  },
+  "homepage": "https://github.com/jsarnowski96/designPatterns#readme",
+  "dependencies": {
+    "Math": "0.0.1-security",
+    "alert": "^5.0.10"
+  }
+}
