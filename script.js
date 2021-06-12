@@ -644,14 +644,14 @@ function traverse(node) {
 }
 
 const root = new Node("root");
-const l0 = new Node("left level 0");
-const r0 = new Node("right level 0");
-const l1 = new Node("left level 1");
-const r1 = new Node("right level 1");
-const l2 = new Node("left level 2");
-const r2 = new Node("right level 2");
-const l3 = new Node("left level 3");
-const r3 = new Node("right level 3");
+const l0 = new Node("left 0");
+const r0 = new Node("right 0");
+const l1 = new Node("left 1");
+const r1 = new Node("right 1");
+const l2 = new Node("left 2");
+const r2 = new Node("right 2");
+const l3 = new Node("left 3");
+const r3 = new Node("right 3");
 
 console.log("COMPOSITE PATTERN\n------------\n");
 
