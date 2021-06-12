@@ -3,6 +3,8 @@
 // Wzorce projektowe z implementacją w języku JavaScript (ES6)
 // Wywołanie skryptu: node .
 
+// Autor: Jakub Sarnowski, j.sarnowski@linux.pl
+
 // Wzorce konstrukcyjne
 // SINGLETON PATTERN
 
