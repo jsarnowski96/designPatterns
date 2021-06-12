@@ -117,10 +117,6 @@ class BaseShape {
     diameter() {
         return;
     }
-
-    countPi() {
-        return;
-    }
 }
 
 class Square extends BaseShape {
